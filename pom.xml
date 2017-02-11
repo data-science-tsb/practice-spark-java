@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- project coordinates - values which uniquely identify this project -->
-    <groupId>com.sparkpractice</groupId>
-    <artifactId>spark-practice-java</artifactId>
+    <groupId>com.practice</groupId>
+    <artifactId>practice-spark-java</artifactId>
     <version>1.0</version>
 
     <!-- library dependencies -->
